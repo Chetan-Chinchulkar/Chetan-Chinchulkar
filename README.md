@@ -51,6 +51,9 @@
 
 <br/>
 
+<!-- ### Hacker Profile:
+<script src="https://tryhackme.com/badge/1020524"></script>
+ -->
 ### Mostly used languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Chinchulkar&theme=dark" />
@@ -62,5 +65,3 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chetan-Chinchulkar)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hacker Profile
-<script src="https://tryhackme.com/badge/1020524"></script>
