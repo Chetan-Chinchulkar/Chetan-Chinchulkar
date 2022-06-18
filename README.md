@@ -45,8 +45,21 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 <br />
 
-### Github Stats:
+### Github Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### TryHackMe Profile : 
+Username : omnipresent.1802
+
+**Profile Badge** : 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/omnipresent.1802.png" alt="TryHackMe">
+
+**Room Badges**
+
+_Penetesting_ : https://tryhackme.com/omnipresent.1802/badges/intro-to-pentesting
+
+_Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
 
 ### Mostly used languages:
 
@@ -58,4 +71,11 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chetan-Chinchulkar)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+<!--
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+-->
