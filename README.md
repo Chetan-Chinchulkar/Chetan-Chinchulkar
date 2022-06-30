@@ -98,7 +98,7 @@ _Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://Link)** -->
+
 
 - ⚡ I like **reading books and playing football**
 
@@ -124,10 +124,7 @@ _Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <br>
 <h3 align="left">📊 My Github Stats</h3>
-<!---
-gh4abhi/gh4abhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <p  align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gh4abhi&show_icons=true&theme=github_dark&custom_title=Abhishek%27s%20Github%20Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gh4abhi&theme=holi-theme&background=0D1117&border=dddddd" /> <br><br>
@@ -137,7 +134,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chetan-Chinchulkar&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Abhishek%27s%20Activity%20Graph&theme=react-dark)](https://github.com/gh4abhi/github-readme-activity-graph)
 <br>
-<!----------------------------------- Top Repository Section ------------------------------------>
+
 
 ## ✨ Top Repositories
 <p align = "center">
