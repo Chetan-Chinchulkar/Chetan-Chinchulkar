@@ -10,9 +10,21 @@
 - 👯 I’m looking to collaborate on Backend and Cybersecurity
 - 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**
 
+
+<p align="center"> 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Chetan-Chinchulkar">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Chetan-Chinchulkar?label=Followers&style=social" alt="GitHub Badge"></a>
+</br>
+
+<p align="center"> 
+ <b> Visitor's count </b> <br>
+  <img src="https://profile-counter.glitch.me/Chetan-Chinchulkar/count.svg" />
+ </p>
+
 <!--
 - 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -94,10 +106,7 @@ _Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
 [![Chetan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chetan-Chinchulkar&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Chetan%27s%20Activity%20Graph&theme=react-dark)](https://github.com/Chetan-Chinchulkar/github-readme-activity-graph)
 <br>
 
-<p align="center"> 
- <b> Visitor's count </b> <br>
-  <img src="https://profile-counter.glitch.me/Chetan-Chinchulkar/count.svg" />
- </p>
+
 
 
 <!--
