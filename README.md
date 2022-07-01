@@ -5,6 +5,7 @@
 
 - 🔭 I'm entering into Junior (3rd) year B.Tech. in Engineering Physics at <a href="iitg.ac.in"> IIT Guwahati </a> .
 - 🌱 I’m currently learning Data Structures and Algorithms and Cybersecurity.
+- 🧑🏻‍💻 I've worked on various projects in our College
 -  ⚡ I like **reading books and swimming**
 - 👯 I’m looking to collaborate on Backend and Cybersecurity
 - 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**
