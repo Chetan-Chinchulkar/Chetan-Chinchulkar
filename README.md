@@ -1,9 +1,16 @@
-### Hi there 👋, I'm Chetan Chinchulkar
+<h1 align ='center'> Hi there 👋, I'm Chetan Chinchulkar </h1>
+<h3 align="center">Passionate to learn new things.</h3>
+
+## 🙋‍♂️ An Overview About Me:
+
+- 🔭 I'm entering into Junior (3rd) year B.Tech. in Engineering Physics at <a href="iitg.ac.in"> IIT Guwahati </a> .
+- 🌱 I’m currently learning Data Structures and Algorithms and Cybersecurity.
+-  ⚡ I like **reading books and swimming**
+- 👯 I’m looking to collaborate on Backend and Cybersecurity
+- 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**
 
 <!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -45,11 +52,16 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 <br />
 
+<!--
 ### Github Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+-->
+
 
 ### TryHackMe Profile : 
 Username : omnipresent.1802
+
+<p align="center">
 
 **Profile Badge** : 
 
@@ -61,51 +73,33 @@ _Penetesting_ : https://tryhackme.com/omnipresent.1802/badges/intro-to-pentestin
 
 _Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
 
-### Mostly used languages:
+</p>
+<br>
+<h3 align="left">📊 My Github Stats</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Chinchulkar&theme=dark" />
+<p  align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&show_icons=true&theme=github_dark&custom_title=Chetan%27s%20Github%20Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Chinchulkar&theme=holi-theme&background=0D1117&border=dddddd" /> <br><br>
+  </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan-Chinchulkar&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Chetan-Chinchulkar" />
+    <!--
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Chinchulkar&theme=dark" />
+    -->
+</p>
 
-<!--
+<h3 align="left">📊 Github Activity</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Chinchulkar)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chetan-Chinchulkar)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
--->
-<!--
-<a href="#"><img align="center" width="1500"  height="350" alt="image" src="https://github.com/gh4abhi/gh4abhi/blob/main/Github%20Banner.png"/></a>
-
-<h1 align="center">Hi 👋, I'm Abhishek Swaroop Shrivastava</h1>
-<h3 align="center">Passionate to learn new things.</h3>
-
+[![Chetan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chetan-Chinchulkar&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Chetan%27s%20Activity%20Graph&theme=react-dark)](https://github.com/Chetan-Chinchulkar/github-readme-activity-graph)
 <br>
 
-<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/gh4abhi/gh4abhi/blob/main/Profile%20Image.jpg"/></a>
+<p align="center"> 
+ <b> Visitor's count </b> <br>
+  <img src="https://profile-counter.glitch.me/Chetan-Chinchulkar/count.svg" />
+ </p>
 
 
-## 🙋‍♂️ An Overview About Me:
-
-- 🔭 I’m an AR/VR Developer at <a href = "https://innogeeks.in/"><b>Innogeeks</b></a>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-
-
-- ⚡ I like **reading books and playing football**
-
-
-- 📝 You can check some of my **blogs** at [@gh4ahbi](https://medium.com/@gh4abhi)
-
-- 📫 How to **reach me** **gh4abhi@gmail.com**
+<!--
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -123,19 +117,11 @@ _Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <br>
-<h3 align="left">📊 My Github Stats</h3>
-
-<p  align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gh4abhi&show_icons=true&theme=github_dark&custom_title=Abhishek%27s%20Github%20Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gh4abhi&theme=holi-theme&background=0D1117&border=dddddd" /> <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gh4abhi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="gh4abhi" />
-
-</p>
-
-[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chetan-Chinchulkar&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Abhishek%27s%20Activity%20Graph&theme=react-dark)](https://github.com/gh4abhi/github-readme-activity-graph)
-<br>
+-->
 
 
+
+<!--
 ## ✨ Top Repositories
 <p align = "center">
     <a href="https://github.com/gh4abhi/Data-Structures-and-Algorithms">
@@ -157,8 +143,5 @@ _Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Competitive-Programming&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
   </a>  
 </p>
-<p align="center"> 
- <b> Visitor's count </b> <br>
-  <img src="https://profile-counter.glitch.me/Chetan-Chinchulkar/count.svg" />
- </p>
 -->
+
