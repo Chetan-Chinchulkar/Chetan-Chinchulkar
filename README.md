@@ -68,9 +68,9 @@
 <!--
 ### Github Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
--->
-[![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ### TryHackMe Profile : 
 Username : omnipresent.1802
 
