@@ -69,7 +69,7 @@
 ### Github Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
-
+[![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### TryHackMe Profile : 
 Username : omnipresent.1802
@@ -89,9 +89,8 @@ _Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
 </p>
 <br>
 <h3 align="left">📊 My Github Stats</h3>
-
 <p  align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&show_icons=true&theme=github_dark&custom_title=Chetan%27s%20Github%20Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&show_icons=true&theme=github_dark&custom_title=Chetan%27s%20Github%20Stats&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Chinchulkar&theme=holi-theme&background=0D1117&border=dddddd" /> <br><br>
   </p>
 <p align="center">
