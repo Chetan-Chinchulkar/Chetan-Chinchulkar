@@ -74,7 +74,7 @@
 ### TryHackMe Profile : 
 Username :  [Omnipresent.1802](https://tryhackme.com/p/Omnipresent.1802)
 
-![tryhackme stats](https://raw.githubusercontent.com/Omnipresent.1802/Omnipresent.1802/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
 
 <p align="center">
 
