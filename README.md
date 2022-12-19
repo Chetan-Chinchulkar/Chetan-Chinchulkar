@@ -72,7 +72,7 @@
 [![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### TryHackMe Profile : 
-Username : Omnipresent.1802
+Username :  [Omnipresent.1802](https://tryhackme.com/p/Omnipresent.1802)
 
 <p align="center">
 
@@ -80,14 +80,13 @@ Username : Omnipresent.1802
     
 <!--     <script src="https://tryhackme.com/badge/1471836"></script> -->
 <img src="https://tryhackme-badges.s3.amazonaws.com/Omnipresent.1802.png" alt="TryHackMe">
-<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/omnipresent.1802.png" alt="TryHackMe"> -->
-
+<!--     
 **Room Badges**
 
 _Penetesting_ : https://tryhackme.com/omnipresent.1802/badges/intro-to-pentesting
 
 _Linux_ : https://tryhackme.com/omnipresent.1802/badges/terminaled
-
+ -->
 </p>
 <br>
 <h3 align="left">📊 My Github Stats</h3>
