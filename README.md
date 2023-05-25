@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ An Overview About Me:
 
-- 🔭 I'm entering into Junior (3rd) year B.Tech. in Engineering Physics at <a href="iitg.ac.in"> IIT Guwahati </a> .
+- 🔭 I'm entering into Senior (4th) year B.Tech. in Engineering Physics at <a href="iitg.ac.in"> IIT Guwahati </a> .
 - 🌱 I’m currently learning Data Structures and Algorithms and Cybersecurity.
 - 🧑🏻‍💻 I've worked on various projects in our College
 -  ⚡ I like **reading books and swimming**
@@ -36,6 +36,9 @@
 [instagram]: https://www.instagram.com/chetan.chinchulkar/
 [linkedin]: https://www.linkedin.com/in/chetan-chinchulkar-224584201/
 [youtube]: https://www.youtube.com/channel/UCgcwOE8EdPziTpl4tba8Eag/
+[twitter]: https://twitter.com/CMC
+<!-- [tryhackme]:  -->
+<!-- [hackthebox]:  -->
 
 ### Connect with me:
 [<img align="left" alt="Chetan-Chinchulkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="Chetan-Chinchulkar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -78,7 +81,11 @@ Username :  [Omnipresent.1802](https://tryhackme.com/p/Omnipresent.1802)
 
 **[Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FHP6GFOSSO.png)**
 
+
 <!--
+https://academy.hackthebox.com/achievement/690830/15
+
+
 **Profile Badge** :
     
      <script src="https://tryhackme.com/badge/1471836"></script> -->
