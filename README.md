@@ -34,7 +34,7 @@
 
 [facebook]: https://www.facebook.com/chetan.chinchulkar.37/
 [instagram]: https://www.instagram.com/chetan.chinchulkar/
-[linkedin]: https://www.linkedin.com/in/chetan-chinchulkar-224584201/
+[linkedin]: https://www.linkedin.com/in/chetan-chinchulkar/
 [youtube]: https://www.youtube.com/channel/UCgcwOE8EdPziTpl4tba8Eag/
 [twitter]: https://twitter.com/CMC
 <!-- [tryhackme]:  -->
