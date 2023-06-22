@@ -8,7 +8,7 @@
 - 🧑🏻‍💻 I've worked on various projects in our College
 -  ⚡ I like **reading books and swimming**
 - 👯 I’m looking to collaborate on Full Stack Development and Cybersecurity
-- 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**
+<!-- - 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**-->
 
 
 <p align="center"> 
