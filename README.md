@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms and Cybersecurity.
 - 🧑🏻‍💻 I've worked on various projects in our College
 -  ⚡ I like **reading books and swimming**
-- 👯 I’m looking to collaborate on Backend and Cybersecurity
+- 👯 I’m looking to collaborate on Full Stack Development and Cybersecurity
 - 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**
 
 
@@ -91,20 +91,26 @@ https://academy.hackthebox.com/achievement/690830/15
      <script src="https://tryhackme.com/badge/1471836"></script> -->
 
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/Omnipresent.1802.png" alt="TryHackMe"> -->
+
     
 <br>
 
 <h3 align="left">📊 My Github Stats</h3>
 <p  align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&show_icons=true&theme=github_dark&custom_title=Chetan%27s%20Github%20Stats&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&show_icons=true&theme=transparent&custom_title=Chetan%27s%20Github%20Stats&count_private=true&include_all_commits=true" />
+<!--     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&show_icons=true&theme=github_dark&custom_title=Chetan%27s%20Github%20Stats&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Chinchulkar&theme=holi-theme&background=0D1117&border=dddddd" /> <br><br>
   </p>
+
+    
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan-Chinchulkar&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Chetan-Chinchulkar" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan-Chinchulkar&show_icons=true&locale=en&layout=donut&theme=transparent" alt="Chetan-Chinchulkar" />
     <!--
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Chinchulkar&theme=dark" />
     -->
 </p>
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Chinchulkar)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <h3 align="left">📊 Github Activity</h3>
 
