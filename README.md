@@ -114,7 +114,7 @@ https://academy.hackthebox.com/achievement/690830/15
 
 <h3 align="left">📊 Github Activity</h3>
 
-[![Chetan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-Chinchulkar&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chetan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-Chinchulkar&theme=react)](https://github.com/Chetan-Chinchulkar/)
 <!--
 [![Chetan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chetan-Chinchulkar&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Chetan%27s%20Activity%20Graph&theme=react-dark)](https://github.com/Chetan-Chinchulkar/github-readme-activity-graph)
 -->
