@@ -14,6 +14,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chetan-Chinchulkar&margin-w=15&margin-h=15&no-bg=true&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 <p align="center"> 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chetan-Chinchulkar">
@@ -34,6 +35,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There,+I+am+Chetan+Chinchulkar)](https://git.io/typing-svg)
+
+
 
 [facebook]: https://www.facebook.com/chetan.chinchulkar.37/
 [instagram]: https://www.instagram.com/chetan.chinchulkar/
