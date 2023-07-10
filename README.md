@@ -12,6 +12,8 @@
 <!-- - 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**-->
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chetan-Chinchulkar&margin-w=15&margin-h=15&no-bg=true&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center"> 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chetan-Chinchulkar">
