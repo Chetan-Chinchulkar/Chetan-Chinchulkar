@@ -45,6 +45,7 @@
 [instagram]: https://www.instagram.com/chetan.chinchulkar/
 [linkedin]: https://www.linkedin.com/in/chetan-chinchulkar/
 [youtube]: https://www.youtube.com/channel/UCgcwOE8EdPziTpl4tba8Eag/
+[discord]: https://www.youtube.com/channel/UCgcwOE8EdPziTpl4tba8Eag/
 [twitter]: https://twitter.com/CMC
 <!-- [tryhackme]:  -->
 <!-- [hackthebox]:  -->
@@ -55,15 +56,15 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)][linkedin]
 [![My Skills](https://skillicons.dev/icons?i=twitter)][twitter]
 [![My Skills](https://skillicons.dev/icons?i=instagram)][instagram]
-[![My Skills](https://skillicons.dev/icons?i=youtube)][youtube]
-[![My Skills](https://skillicons.dev/icons?i=fb)][facebook]
-
+[![My Skills](https://skillicons.dev/icons?i=discord)][discord]
+<!-- [![My Skills](https://skillicons.dev/icons?i=youtube)][youtube] -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=fb)][facebook] -->
 
 
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,django,figma,git,github,html,js,latex,linux,mysql,php,py,sqlite,svelte,tailwind)](https://github.com/Chetan-Chinchulkar)
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,django,figma,git,github,html,js,laravel,latex,linux,mysql,php,py,sqlite,svelte,tailwind)](https://github.com/Chetan-Chinchulkar)
 
 <!--
 ### Github Stats :
