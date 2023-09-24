@@ -1,6 +1,9 @@
-<h1 align ='center'> Hi there 👋, I'm Chetan Chinchulkar </h1>
+<h1 align ='center'> 
+    Hi there 👋, I'm Chetan Chinchulkar 
+</h1>
 <h3 align="center">Passionate to learn new things.</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There,+I+am+Chetan+Chinchulkar)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ An Overview About Me:
 
@@ -35,9 +38,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There,+I+am+Chetan+Chinchulkar)](https://git.io/typing-svg)
 
 
 
