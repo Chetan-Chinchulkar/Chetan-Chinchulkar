@@ -81,7 +81,7 @@ setTimeout(() => clearInterval(timer1), STOP_AFTER*1000)
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,django,figma,git,github,html,js,laravel,latex,linux,mysql,php,py,sqlite,svelte,tailwind)](https://github.com/Chetan-Chinchulkar)
+[![My Skills](https://skillicons.dev/icons?i=django,svelte,laravel,html,js,css,tailwind,bootstrap,git,github,c,cpp,bash,latex,linux,mysql,php,py,sqlite,figma,ai)](https://github.com/Chetan-Chinchulkar)
 
 <!--
 ### Github Stats :
