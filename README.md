@@ -24,7 +24,7 @@ setTimeout(() => clearInterval(timer1), STOP_AFTER*1000)
 
 ## 🙋‍♂️ An Overview About Me:
 
-- 🔭 I'm entering into Senior (4th) year B.Tech. in Engineering Physics at <a href="iitg.ac.in"> IIT Guwahati </a> .
+- 🔭 I'm B.Tech. '24 Graduate  in Engineering Physics from <a href="iitg.ac.in"> IIT Guwahati </a> .
 - 🌱 I’m currently learning Data Structures and Algorithms and Cybersecurity.
 - 🧑🏻‍💻 I've worked on various projects in our College
 -  ⚡ I like **reading books and swimming**
