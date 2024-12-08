@@ -34,13 +34,14 @@ setTimeout(() => clearInterval(timer1), STOP_AFTER*1000)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chetan-Chinchulkar&margin-w=15&margin-h=15&no-bg=true&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<!--
 <p align="center"> 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chetan-Chinchulkar">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Chetan-Chinchulkar?label=Followers&style=social" alt="GitHub Badge"></a>
 </br>
+-->
 
 <p align="center"> 
  <b> Visitor's count </b> <br>
@@ -91,8 +92,14 @@ setTimeout(() => clearInterval(timer1), STOP_AFTER*1000)
 -->
 ### TryHackMe Profile : 
 Username :  [Omnipresent.1802](https://tryhackme.com/p/Omnipresent.1802)
-
+<!--
 ![Tryhackme Profile Badge](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1471836" style='border:none;'></iframe>
+-->
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Omnipresent.1802.png" alt="Your Image Badge" />
+
 
 **[Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FHP6GFOSSO.png)**
 
