@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Fetch TryHackMe Badge
-      uses: ./tryhackme-badge-action-workflow@v1.0
+      uses: Chetan-Chinchulkar/tryhackme-badge-action-workflow@main
       with:
         image_path: './assets/tryhackme-badge.png'
         username: 'Omnipresent.1802'
