@@ -3,22 +3,6 @@
 </h1>
 <h3 align="center">Passionate to learn new things.</h3>
 
-<!-- Reload COnsole code:
-INTERVAL = 5    // seconds
-STOP_AFTER = 15 // seconds
-
-// Open the same link in the new tab
-win1 = window.open(location.href);
-
-// At every 5 seconds, reload the page
-timer1 = setInterval(() => {
-    win1.location.reload();
-    console.log("Refreshed");
-},INTERVAL*1000)
-
-// Stop reloading after 15 seconds
-setTimeout(() => clearInterval(timer1), STOP_AFTER*1000)
--->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There,+I+am+Chetan+Chinchulkar)](https://git.io/typing-svg)
 
@@ -97,6 +81,8 @@ Username :  [Omnipresent.1802](https://tryhackme.com/p/Omnipresent.1802)
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1471836" style='border:none;'></iframe>
 -->
+![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Omnipresent.1802.png" alt="Your Image Badge" />
 
