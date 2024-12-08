@@ -9,8 +9,8 @@
 ## 🙋‍♂️ An Overview About Me:
 
 - 🔭 I'm B.Tech. '24 Graduate  in Engineering Physics from <a href="iitg.ac.in"> IIT Guwahati </a> .
-- 🌱 I’m currently learning Data Structures and Algorithms and Cybersecurity.
-- 🧑🏻‍💻 I've worked on various projects in our College
+- 🌱 I’m currently learning tech that interests me
+- 🧑🏻‍💻 I've worked on various projects on development
 -  ⚡ I like **reading books and swimming**
 - 👯 I’m looking to collaborate on Full Stack Development and Cybersecurity
 <!-- - 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**-->
