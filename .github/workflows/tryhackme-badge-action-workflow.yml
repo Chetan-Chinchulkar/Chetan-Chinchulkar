@@ -19,4 +19,5 @@ jobs:
       with:
         image_path: './assets/tryhackme-badge.png'
         username: 'Omnipresent.1802'
+        user_id: '1471836'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
