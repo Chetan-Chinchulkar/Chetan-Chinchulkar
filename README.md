@@ -80,11 +80,11 @@ Username :  [Omnipresent.1802](https://tryhackme.com/p/Omnipresent.1802)
 ![Tryhackme Profile Badge](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1471836" style='border:none;'></iframe>
--->
-![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
+
+![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/tryhackme-badge.pn)
 
 ![TryHackMe Badge](https://github.com/Chetan-Chinchulkar/Chetan-Chinchulkar/blob/master/assets/tryhackme-badge.png)
-
+-->
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Omnipresent.1802.png" alt="Your Image Badge" />
 
