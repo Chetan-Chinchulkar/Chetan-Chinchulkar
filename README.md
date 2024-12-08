@@ -66,7 +66,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=django,svelte,laravel,html,js,css,tailwind,bootstrap,git,github,c,cpp,bash,latex,linux,mysql,php,py,sqlite,figma,ai,rust,typescript)](https://github.com/Chetan-Chinchulkar)
+[![My Skills](https://skillicons.dev/icons?i=svelte,django,laravel,html,js,css,tailwind,bootstrap,git,github,c,cpp,bash,latex,linux,mysql,php,py,sqlite,figma,ai,rust,typescript,seleium,supabase,postman,postgres,phpstorm,notion,netlify,mongodb,kali,graphql,docker,d3,alpinejs,arduino,cloudflare,)](https://github.com/Chetan-Chinchulkar)
 
 <!--
 ### Github Stats :
