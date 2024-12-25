@@ -48,7 +48,7 @@
 [linkedin]: https://www.linkedin.com/in/chetan-chinchulkar/
 [youtube]: https://www.youtube.com/channel/UCgcwOE8EdPziTpl4tba8Eag/
 [discord]: https://www.youtube.com/channel/UCgcwOE8EdPziTpl4tba8Eag/
-[twitter]: https://twitter.com/CMC
+[twitter]: https://twitter.com/Chetan_CMC
 <!-- [tryhackme]:  -->
 <!-- [hackthebox]:  -->
 
