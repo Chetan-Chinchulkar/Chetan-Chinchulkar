@@ -75,7 +75,7 @@
 [![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### TryHackMe Profile : 
-Username :  [Omnipresent.1802](https://tryhackme.com/p/Omnipresent.1802)
+Username :  [omnipresent](https://tryhackme.com/p/omnipresent)
 <!--
 ![Tryhackme Profile Badge](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
 
@@ -86,11 +86,11 @@ Username :  [Omnipresent.1802](https://tryhackme.com/p/Omnipresent.1802)
 ![TryHackMe Badge](https://github.com/Chetan-Chinchulkar/Chetan-Chinchulkar/blob/master/assets/tryhackme-badge.png)
 -->
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Omnipresent.1802.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/omnipresent.png" alt="Your Image Badge" />
 
-
+<!--
 **[Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FHP6GFOSSO.png)**
-
+-->
 
 <!--
 https://academy.hackthebox.com/achievement/690830/15
