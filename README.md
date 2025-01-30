@@ -74,7 +74,7 @@
 
 [![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
-### TryHackMe Profile : 
+### TryHackMe Profile : Top 3% at Tryhackme
 Username :  [omnipresent](https://tryhackme.com/p/omnipresent)
 <!--
 ![Tryhackme Profile Badge](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
