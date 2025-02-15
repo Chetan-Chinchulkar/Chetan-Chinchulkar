@@ -121,6 +121,14 @@ https://academy.hackthebox.com/achievement/690830/15
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Chinchulkar)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<!--
+## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
+
+<p align="center">
+<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+</p>
+-->
+
 <h3 align="left">📊 Github Activity</h3>
 
 [![Chetan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-Chinchulkar&theme=react)](https://github.com/Chetan-Chinchulkar/)
@@ -131,42 +139,3 @@ https://academy.hackthebox.com/achievement/690830/15
 
 
 
-
-<!--
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/gh4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gh4abhi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gh4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gh4abhi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14595271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14595271" height="30" width="40" /></a>
-<a href="https://instagram.com/gh4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gh4abhi" height="30" width="40" /></a>
-<a href="https://medium.com/@gh4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gh4abhi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gh4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gh4abhi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gh4abhis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhishek_s_shrivastava" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gh4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gh4abhi" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@gh4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gh4abhi" height="30" width="40" /></a>
-</p>
-<br>
-
-## ✨ Top Repositories
-<p align = "center">
-    <a href="https://github.com/gh4abhi/Data-Structures-and-Algorithms">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Data-Structures-and-Algorithms&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
-  </a>
-      <a href="https://github.com/gh4abhi/VirtuLabs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=VirtuLabs&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
-  </a>
-  <a href="https://github.com/gh4abhi/Stellarus">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Stellarus&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
-  </a>
-<a href="https://github.com/gh4abhi/Terminal-Hacker">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Terminal-Hacker&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
-  </a>  
-  <a href="https://github.com/gh4abhi/Autotype">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Autotype&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
-  </a>  
-  <a href="https://github.com/gh4abhi/Competitive-Programming">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4abhi&repo=Competitive-Programming&locale=en&border_radius=0&theme=dark" alt="gh4abhi" />
-  </a>  
-</p>
--->
