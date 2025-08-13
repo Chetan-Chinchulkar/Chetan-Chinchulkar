@@ -2,33 +2,24 @@ name: Update TryHackMe Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-badge:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    # Optional: Set Git identity (not strictly needed if the action sets it internally)
-    - name: Configure Git Identity
-      run: |
-        git config --global user.name "${{ secrets.committer_username }}"
-        git config --global user.email "${{ secrets.committer_email }}"
-
-    - name: Fetch TryHackMe Badge
-      uses: Chetan-Chinchulkar/tryhackme-badge-action-workflow@main
-      with:
-        image_path: './assets/tryhackme-badge.png'
-        user_id: ${{ secrets.THM_USER_ID }}
-        username: ${{ secrets.THM_USERNAME }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        committer_username: ${{ secrets.committer_username }}
-        committer_email: ${{ secrets.committer_email }}
-
-    # Optional: Debug Git config if needed
-    # - name: Debug Git Config
-    #   run: git config --list
+      - name: Fetch TryHackMe Badge
+        uses: geeekgod/tryhackme-badge-action@v1.0
+        with:
+          image_path: './assets/tryhackme-badge.png'
+          username: ${{ secrets.THM_USERNAME }}
+          user_id: ${{ secrets.THM_USER_ID }}
+          committer_username: ${{ secrets.committer_username }}
+          committer_email: 'thmbot@thm.bot'
+          commit_message: 'Updated THM profile badge'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
