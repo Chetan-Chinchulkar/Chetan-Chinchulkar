@@ -85,6 +85,9 @@ Username :  [omnipresent](https://tryhackme.com/p/omnipresent)
 
 ![TryHackMe Badge](https://github.com/Chetan-Chinchulkar/Chetan-Chinchulkar/blob/master/assets/tryhackme-badge.png)
 -->
+![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
+
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/omnipresent.png" alt="Your Image Badge" />
 <!--
 **[Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FHP6GFOSSO.png)**
