@@ -85,8 +85,7 @@ Username :  [omnipresent](https://tryhackme.com/p/omnipresent)
 
 ![TryHackMe Badge](https://github.com/Chetan-Chinchulkar/Chetan-Chinchulkar/blob/master/assets/tryhackme-badge.png)
 -->
-![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
-
+![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/tryhackme-badge.png)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/omnipresent.png" alt="Your Image Badge" />
 <!--
