@@ -15,7 +15,8 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Fetch TryHackMe Badge
-      uses: Chetan-Chinchulkar/tryhackme-badge-action-workflow@main
+      # uses: Chetan-Chinchulkar/tryhackme-badge-action-workflow@main
+      uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:
         image_path: './assets/tryhackme-badge.png'
         username: ${{ secrets.THM_USERNAME }}
