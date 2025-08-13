@@ -3,7 +3,7 @@ name: TryHackMe Update Badge
 on:
   schedule:
     # Make it run every 24 hour
-    - cron: '* * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   tryhackme-badge-update:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: Chetan-Chinchulkar/tryhackme-badge-workflow@main
         with:
           # Replace with your tryhackme username
           username: "omnipresent"
