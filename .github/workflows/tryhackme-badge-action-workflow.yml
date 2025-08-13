@@ -24,4 +24,4 @@ jobs:
         user_id: ${{ secrets.THM_USER_ID }}
         username: ${{ secrets.THM_USERNAME }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        committer_name: ${{ secrets.committer_name }}
+        committer_username: ${{ secrets.committer_username }}
