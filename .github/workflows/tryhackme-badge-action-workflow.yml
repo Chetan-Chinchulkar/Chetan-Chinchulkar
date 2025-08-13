@@ -18,6 +18,6 @@ jobs:
       uses: Chetan-Chinchulkar/tryhackme-badge-action-workflow@main
       with:
         image_path: './assets/tryhackme-badge.png'
-        username: 'omnipresent'
-        user_id: '1471836'
+        username: ${{ secrets.THM_USERNAME }}
+        user_id: ${{ secrets.THM_USER_ID }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
