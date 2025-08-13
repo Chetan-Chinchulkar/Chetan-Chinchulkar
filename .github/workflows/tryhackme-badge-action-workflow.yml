@@ -8,14 +8,16 @@ on:
 jobs:
   update-badge:
     runs-on: ubuntu-22.04
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    # Optional: Set Git identity (not strictly needed if the action sets it internally)
     - name: Configure Git Identity
       run: |
-        git config --global user.name "GitHub Actions Bot"
-        git config --global user.email "actions@github.com"
+        git config --global user.name "${{ secrets.committer_username }}"
+        git config --global user.email "${{ secrets.committer_email }}"
 
     - name: Fetch TryHackMe Badge
       uses: Chetan-Chinchulkar/tryhackme-badge-action-workflow@main
@@ -25,3 +27,8 @@ jobs:
         username: ${{ secrets.THM_USERNAME }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         committer_username: ${{ secrets.committer_username }}
+        committer_email: ${{ secrets.committer_email }}
+
+    # Optional: Debug Git config if needed
+    # - name: Debug Git Config
+    #   run: git config --list
