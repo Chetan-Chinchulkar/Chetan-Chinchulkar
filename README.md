@@ -1,11 +1,28 @@
-<h1 align ='center'> 
-    Hi there 👋, I'm Chetan Chinchulkar 
-</h1>
-<h3 align="center">Passionate to learn new things.</h3>
+# 👋 Hi, I'm Chetan Chinchulkar!
 
+Welcome to my GitHub profile! I'm a passionate developer, security enthusiast, and lifelong learner. Here, you'll find a blend of hands-on projects, innovative ideas, and a commitment to building secure, scalable, and impactful software.
+
+---
+
+## 🚀 About Me
+
+- 💻 **Developer & Builder:** I love solving real-world problems with code and turning ideas into robust applications.
+- 🔒 **Security Advocate:** Cybersecurity is not just my interest—it's my mission. I actively contribute to security tooling and awareness.
+- 🤖 **Automation Fan:** From CI/CD pipelines to agent-based systems, I enjoy making work smarter and faster.
+- 🌱 **Continuous Learner:** Always exploring new technologies, frameworks, and methodologies to stay ahead in the tech game.
+
+
+## 🌟 What I Value
+
+- **Collaboration:** Open to connecting and working with fellow developers, researchers, and security pros.
+- **Quality:** Clean, maintainable code and secure practices are at the heart of everything I build.
+- **Growth:** I believe in sharing knowledge and growing together as a community.
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There,+I+am+Chetan+Chinchulkar)](https://git.io/typing-svg)
 
+<!--
 ## 🙋‍♂️ An Overview About Me:
 
 - 🔭 I'm B.Tech. '24 Graduate  in Engineering Physics from <a href="iitg.ac.in"> IIT Guwahati </a> .
@@ -13,7 +30,7 @@
 - 🧑🏻‍💻 I've worked on various projects on development
 -  ⚡ I like **reading books and swimming**
 - 👯 I’m looking to collaborate on Full Stack Development and Cybersecurity
-<!-- - 📫 How to **reach me** **chetanchinchulkar.1802@gmail.com**-->
+-->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chetan-Chinchulkar&margin-w=15&margin-h=15&no-bg=true&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -41,7 +58,7 @@
 - ⚡ Fun fact: ...
 -->
 
-
+## 📫 Let's Connect!
 
 [facebook]: https://www.facebook.com/chetan.chinchulkar.37/
 [instagram]: https://www.instagram.com/chetan.chinchulkar/
@@ -84,9 +101,9 @@ Username :  [omnipresent](https://tryhackme.com/p/omnipresent)
 ![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/tryhackme-badge.pn)
 
 ![TryHackMe Badge](https://github.com/Chetan-Chinchulkar/Chetan-Chinchulkar/blob/master/assets/tryhackme-badge.png)
--->
-![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/tryhackme-badge.png)
 
+![tryhackme stats](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/tryhackme-badge.png)
+-->
 <img src="https://tryhackme-badges.s3.amazonaws.com/omnipresent.png" alt="Your Image Badge" />
 <!--
 **[Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FHP6GFOSSO.png)**
@@ -138,5 +155,9 @@ https://academy.hackthebox.com/achievement/690830/15
 -->
 <br>
 
+
+> _"Code with purpose. Secure with passion. Grow with curiosity."_
+
+Thanks for stopping by! Feel free to browse my projects, reach out for collaboration, or just say hello. 🚀
 
 
