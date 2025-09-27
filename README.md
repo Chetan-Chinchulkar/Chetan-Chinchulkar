@@ -22,41 +22,14 @@ Welcome to my GitHub profile! I'm a passionate developer, security enthusiast, a
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There,+I+am+Chetan+Chinchulkar)](https://git.io/typing-svg)
 
-<!--
-## 🙋‍♂️ An Overview About Me:
-
-- 🔭 I'm B.Tech. '24 Graduate  in Engineering Physics from <a href="iitg.ac.in"> IIT Guwahati </a> .
-- 🌱 I’m currently learning tech that interests me
-- 🧑🏻‍💻 I've worked on various projects on development
--  ⚡ I like **reading books and swimming**
-- 👯 I’m looking to collaborate on Full Stack Development and Cybersecurity
--->
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chetan-Chinchulkar&margin-w=15&margin-h=15&no-bg=true&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-<p align="center"> 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Chetan-Chinchulkar">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Chetan-Chinchulkar?label=Followers&style=social" alt="GitHub Badge"></a>
-</br>
--->
 
 <p align="center"> 
  <b> Visitor's count </b> <br>
   <img src="https://profile-counter.glitch.me/Chetan-Chinchulkar/count.svg" />
  </p>
 
-<!--
-- 🔭 I’m currently working on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 📫 Let's Connect!
 
@@ -83,7 +56,27 @@ Welcome to my GitHub profile! I'm a passionate developer, security enthusiast, a
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,django,laravel,html,js,css,tailwind,bootstrap,git,github,c,cpp,bash,latex,linux,mysql,php,py,sqlite,figma,ai,rust,typescript,seleium,supabase,postman,postgres,phpstorm,notion,netlify,mongodb,kali,graphql,docker,d3,alpinejs,arduino,cloudflare,)](https://github.com/Chetan-Chinchulkar)
+[![My Skills](https://skillicons.dev/icons?i=svelte,django,laravel,html,js,css,tailwind,bootstrap,go,git,github,c,cpp,bash,latex,linux,mysql,php,py,sqlite,figma,ai,rust,typescript,seleium,supabase,postman,postgres,phpstorm,notion,netlify,mongodb,kali,graphql,docker,d3,alpinejs,arduino,cloudflare,)](https://github.com/Chetan-Chinchulkar)
+
+
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+
+<br>
+
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Caido-FF6633?style=for-the-badge&logo=caido&color=000000" alt="Caido" />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
+      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
+      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      
+  </div>
+</div>
 
 <!--
 ### Github Stats :
@@ -91,7 +84,7 @@ Welcome to my GitHub profile! I'm a passionate developer, security enthusiast, a
 
 [![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Chinchulkar&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
-### TryHackMe Profile : Top 3% at Tryhackme
+### TryHackMe Profile : Top 1% at Tryhackme
 Username :  [omnipresent](https://tryhackme.com/p/omnipresent)
 <!--
 ![Tryhackme Profile Badge](https://raw.githubusercontent.com/Chetan-Chinchulkar/Chetan-Chinchulkar/master/assets/thm_propic.png)
